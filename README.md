@@ -1,4 +1,4 @@
-# tokobli-campaign-analysis
+# Tokobli Campaign Analysis
 ## Campaign performance analysis and customer behavior evaluation
 ## SECTION 1: PROJECT SUMMARY FOR PORTFOLIO
 *Summary/Context* This analysis evaluates marketing campaign effectiveness and customer purchasing behavior for TokoBli, an e-commerce platform. By examining data from three major sales events—10/10, 11/11, and 12/12—the project seeks to identify optimal strategies for increasing revenue and budget efficiency. The project provides a foundation for data-driven budget allocation and marketing optimization.
