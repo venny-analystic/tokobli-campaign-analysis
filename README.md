@@ -1,15 +1,6 @@
 # tokobli-campaign-analysis
 ## Campaign performance analysis and customer behavior evaluation
 ## SECTION 1: PROJECT SUMMARY FOR PORTFOLIO
-
-## Tools Used
-- SQL (BigQuery)
-- Google Sheets
-
-## Dataset
-Sample dataset is included in this repository for demonstration purposes.  
-The original dataset was processed and analyzed using BigQuery.
-
 *Summary/Context* This analysis evaluates marketing campaign effectiveness and customer purchasing behavior for TokoBli, an e-commerce platform. By examining data from three major sales events—10/10, 11/11, and 12/12—the project seeks to identify optimal strategies for increasing revenue and budget efficiency. The project provides a foundation for data-driven budget allocation and marketing optimization.
 
 *Goals* The primary goal is to determine which campaign (10/10, 11/11, or 12/12) most effectively maximizes total revenue and budget efficiency while acquiring new customers. Additionally, the project aims to identify relevant business metrics, such as revenue-to-budget ratios, to objectively assess performance results and provide strategic recommendations for future promotional budget allocation.
