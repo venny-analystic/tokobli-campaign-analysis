@@ -34,5 +34,5 @@
 - *Efficiency Comparison Chart*: A visual representing the "Ratio on Revenue to Discount," specifically highlighting the Rp 54.90 efficiency of the 12/12 campaign.
 - *Product Category Matrix*: A breakdown of top-performing product categories (like Men’s Fashion and Home & Living) versus their discount levels.
 
-  ### Atuthor
+  ### Author
   Venny Amilia Deslaweny
