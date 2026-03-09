@@ -31,7 +31,10 @@ The 12/12 campaign was the most efficient, generating Rp 54.90 in revenue for ev
 - Outlier Removal (IQR method, Inner Fence) 
 - Exploratory Data Analysis (EDA) 
 - Hypothesis Testing (t-test for two samples assuming unequal variances) 
-- Correlation Analysis (Revenue-to-Discount Ratio) 
+- Correlation Analysis (Revenue-to-Discount Ratio)
+  
+### Dataset Source:  
+https://docs.google.com/spreadsheets/d/1vONURn49kp-Gr2PrqP7_XeKTAkxmREsZilFLjGv4cRU/edit
 
 ## SECTION 4: VISUAL SUGGESTIONS
 - *Data Cleaning Flow*: A visual summary showing the reduction from 4,213 rows to 4,198 rows after removing duplicates and outliers.
