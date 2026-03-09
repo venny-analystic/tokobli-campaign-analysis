@@ -42,7 +42,7 @@
 ### Customer Participation per Campaign
 ![Customer Participation](campaign_customers.png)
 
-### Key Insights
+### Insights Visualization
 - The 11.11 campaign generated the highest revenue (Rp 6.81B) despite having slightly fewer customers than the 10.10 campaign.
 - Customer participation across campaigns remained relatively stable, ranging from 855 to 890 users.
 - Revenue differences are likely driven by higher spending per customer during the 11.11 campaign.
