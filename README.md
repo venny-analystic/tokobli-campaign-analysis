@@ -37,12 +37,10 @@
 ## Key Visualizations
 
 ### Campaign Revenue Comparison
-
-![Campaign Revenue](images/campaign_revenue.png)
+![Campaign Revenue](campaign_revenue.png)
 
 ### Customer Participation per Campaign
-
-![Customer Participation](images/campaign_customers.png)
+![Customer Participation](campaign_customers.png)
 
   ## Key Insights
 - Campaign performance varies across periods and product categories.
