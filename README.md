@@ -63,5 +63,11 @@ https://docs.google.com/spreadsheets/d/1vONURn49kp-Gr2PrqP7_XeKTAkxmREsZilFLjGv4
 - Discount strategy impacts purchasing behavior.
 - Targeted promotions can improve campaign effectiveness.
 
+## Business Recommendations
+- Prioritize the 11.11 campaign as the primary promotional event since it generates the highest revenue among all campaigns.
+- Increase marketing investment and promotional activities leading up to the 11.11 campaign to maximize revenue potential.
+- Improve conversion rates during the 12.12 campaign by offering targeted discounts and personalized recommendations.
+- Develop retention strategies to encourage repeat purchases from customers participating in major campaign events.
+
   ## Author
   Venny Amilia Deslaweny
