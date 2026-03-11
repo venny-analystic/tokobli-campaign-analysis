@@ -69,5 +69,14 @@ https://docs.google.com/spreadsheets/d/1vONURn49kp-Gr2PrqP7_XeKTAkxmREsZilFLjGv4
 - Improve conversion rates during the 12.12 campaign by offering targeted discounts and personalized recommendations.
 - Develop retention strategies to encourage repeat purchases from customers participating in major campaign events.
 
+## Project Files
+tokobli-campaign-analysis
+│
+├── README.md
+├── Tokobli-Campaign-Analysis-1.pdf
+├── Tokobli_Campaign_Analysis_dataset.csv
+├── campaign_customers.png
+└── campaign_revenue.png
+
   ## Author
   Venny Amilia Deslaweny
